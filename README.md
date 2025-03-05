@@ -22,3 +22,6 @@ This system continuously improves and makes AI-driven chatbots more efficient, c
 Would love to hear your thoughts! Have you worked with RAG-based AI agents before? Let’s discuss! 🚀
 
 #AI #MachineLearning #RAG #Chatbots #ArtificialIntelligence #Langchain #LLM #NLP #VectorDB #WebSearch
+
+## Usage :
+simply open the notebook in colab and add appropriate api_key's to use.
